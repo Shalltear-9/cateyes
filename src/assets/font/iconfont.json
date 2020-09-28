@@ -1,0 +1,65 @@
+{
+  "id": "2084174",
+  "name": "cateyes",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "43531",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "935375",
+      "name": "演出",
+      "font_class": "yanchu",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "4228624",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "5398112",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9641434",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11277533",
+      "name": "下三角",
+      "font_class": "lower-triangle",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "12544414",
+      "name": "菜单",
+      "font_class": "caidan-",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "15410407",
+      "name": "小视频",
+      "font_class": "xiaoshipin",
+      "unicode": "e7c0",
+      "unicode_decimal": 59328
+    }
+  ]
+}
